@@ -1,0 +1,20 @@
+PODS:
+  - InstantSearchClient (7.0.3)
+  - SearchTextField (1.2.4)
+
+DEPENDENCIES:
+  - InstantSearchClient (~> 7.0)
+  - SearchTextField
+
+SPEC REPOS:
+  trunk:
+    - InstantSearchClient
+    - SearchTextField
+
+SPEC CHECKSUMS:
+  InstantSearchClient: 289fad11a1bd3bab759bbd80376b3a30a897cbee
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+
+PODFILE CHECKSUM: 1bd40bf64110af183850b34dc4f8479d1af11424
+
+COCOAPODS: 1.8.4
